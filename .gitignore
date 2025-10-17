@@ -1,0 +1,5 @@
+users_db.json
+chat_history.db
+config_db.sqlite
+migrate.py
+__pycache__/
